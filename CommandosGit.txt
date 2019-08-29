@@ -1,0 +1,10 @@
+git status
+git add *
+git commit
+iniciar escribir mensaje -> press i
+escribir mensaje -> enter
+esc -> :wq
+git log
+saltar log -> esc -> :q
+git remote add origin <rutarepositorio>
+git push -u origin master

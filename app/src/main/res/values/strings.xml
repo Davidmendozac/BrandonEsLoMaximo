@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PruebaArquitecturaBrandon2</string>
+    <string name="pruebas_num_surtido">Número de surtidor</string>
 </resources>
