@@ -8,3 +8,10 @@ git log
 saltar log -> esc -> :q
 git remote add origin <rutarepositorio>
 git push -u origin master
+
+git remote -v
+git log --oneline --all --graph
+git checkout -b <name-branch>
+
+
+gradlew assembleRelease artifactoryPublish
